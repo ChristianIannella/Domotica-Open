@@ -4,6 +4,8 @@
 ![ESP8266 Relay di Iannella Christian](https://github.com/ChristianIannella/Open-IoT/blob/main/Media/Photo/ESP8266%20Relay.JPG)
 
 
+[MakerFaire](https://makerfaire.com/yearbook/2023-projects/open-iot/)
+
 Open IoT è un progetto open-source e open-hardware che ha lo scopo di offrire soluzioni IoT ai Maker e non solo.
 Tutti i dispositivi Open IoT sono pronti per essere collegati all' impianto domestico, [qui](https://github.com/ChristianIannella/Open-IoT/tree/main) potete trovare schemi, gerber file ed esempi.
 
